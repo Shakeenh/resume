@@ -1,0 +1,150 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+h2{}
+h3{
+    margin: 10px 0;
+    border-bottom: 1px solid black;
+}
+p{
+    padding: 15px 0;
+    font-size: 14px;
+}
+.main_wrapper{
+    width: 850px;
+    margin: 0 auto;
+}
+.header_top{
+    margin-top: 50px;
+    overflow: hidden;
+}
+.header_left{
+    float: left;
+
+}
+.header_left h2{}
+.header_left address{
+    font-size: 16px;
+    font-style: normal;
+}
+.profile_pic{
+    float: right;
+    
+}
+.profile_pic img{
+    
+    display: block;
+    float: right;
+}
+.header{}
+.education{}
+table{
+width: 100%;
+border-collapse: collapse;
+color: #000;
+}
+td, th{
+border: 1px solid black;
+text-align: left;
+padding: 8px;
+}
+.{}
+.{}
+.{}
+.{}
+.skill{
+
+}
+.skill p span1{
+    margin-left: 63px;
+}
+.skill p span2{
+    margin-left: 122px;
+}
+.skill p span3{
+    margin-left: 126px;
+}
+.skill p span4{
+    margin-left: 97px;
+}
+.skill p span5{
+    margin-left: 179px;
+}
+
+
+
+.personal_info p span1{
+    margin-left: 72px;
+    /* font-size: 22px; */
+}
+.personal_info p span2{
+    margin-left: 47px;
+}
+.personal_info p span3{
+    margin-left: 40px;
+}
+.personal_info p span4{
+    margin-left: 52px;
+}
+.personal_info p span5{
+    margin-left: 113px;
+}
+.personal_info p span6{
+    margin-left: 50px;
+}
+.personal_info p span7{
+    margin-left: 68px;
+}
+.personal_info p span8{
+    margin-left: 82px;
+}
+.personal_info p span9{
+    margin-left: 52px;
+}
+
+.personal_info p span10{
+    margin-left: 34px;
+}
+
+.personal_info p span11{
+    margin-left: 12px;
+}
+.info{
+    font-size: 16px;
+}
+.projects h4{
+    
+}
+.projects h4 span{
+    font-size: 33px;
+}
+.projects p{
+
+}
+.aca_project{}
+.aca_project h4{
+    
+}
+.project h4 ul{
+    margin-left: 50px;
+}
+.project h4 ul li::marker{
+    font-size: 18px;
+}
+.project ul {
+    margin-left: 90px;
+}
+.{}
+.{}
+.{}
+.footer p{
+    text-align: center;
+    padding: 44px 0;
+}
+.{}
+.{}
+.{}
+.{}
+.{}
